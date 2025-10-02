@@ -1,6 +1,11 @@
 # IA-Jelly-Field-Puzzle
+Project developed for Artificial Intelligence at FEUP
 
-## Group A1 42
+## Group
+
+- Alexandre Morais
+- Carlos Costa
+- Nuno Ramos
 
 ### How to run
 
